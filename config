@@ -1,0 +1,26 @@
+
+# appium service ip and port
+appium.url = "http://127.0.0.1:4723/wd/hub"
+
+# platform version
+device.android.version = 8.0.0
+emulator.android.version = 7.0
+
+# device name
+device.android.name = 5210aaa2f48944bd
+emulator.android.name = emulator-5554
+
+
+# app path
+app.android.path = "/Users/oshikzigler/Documents/Automation/Test_APK/HouzzApp_27102.apk"
+
+#app activity
+houzz.app.activity = SplashScreenActivity
+shadow.app.activity = ConfigurationActivity
+
+#app package
+houzz.app.package = com.houzz.app
+shadow.app.package = com.houzz.shadow
+
+
+

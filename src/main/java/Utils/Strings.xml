@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<environment>
+
+    <!-- OnBoarding Screen -->
+    <OnBoardingWelcomeText>Unlock the Full Houzz Experience</OnBoardingWelcomeText>
+    <GetStartedButtonText>GET STARTED</GetStartedButtonText>
+    <SignInButtonText>Already have an account? SIGN IN</SignInButtonText>
+    <TearmsOfUseText>By signing up, signing in or continuing, I agree to Houzz's Terms of Use and Privacy Policy.</TearmsOfUseText>
+
+    <!-- Create An Account Screen -->
+    <CreateAnAccountTitle>Create an Account</CreateAnAccountTitle>
+    <Email>Email</Email>
+    <Password>Password</Password>
+    <PasswordRequirementMessage>Use 8 or more characters, with a mix of letters, numbers and symbols</PasswordRequirementMessage>
+    <SignUp>SIGN UP</SignUp>
+    <HaveAccountSignInText>Already have an account? SIGN IN</HaveAccountSignInText>
+
+
+    <!-- Sign In/Sign Up data -->
+    <trueTestEmailProd>oshik@houzz.com</trueTestEmailProd>
+    <trueTestPasswordProd>Zigler29!</trueTestPasswordProd>
+    <falseTestEmailProd>test@houzz.com</falseTestEmailProd>
+    <falseTestPasswordProd>A123456</falseTestPasswordProd>
+
+    <!-- Error Messages -->
+    <NoEmail>No email</NoEmail>
+    <InvalidEmail>Invalid email</InvalidEmail>
+    <NoPassword>No password</NoPassword>
+    <PasswordMinCharacters>Password must be at least 6 characters</PasswordMinCharacters>
+    <EmailAlreadyTakenHeader>Email already taken</EmailAlreadyTakenHeader>
+    <EmailAlreadyTakenContent>This email is already associated with another account</EmailAlreadyTakenContent>
+
+</environment>
